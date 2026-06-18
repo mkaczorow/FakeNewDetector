@@ -13,7 +13,9 @@ Results #1: DistilBERT
 Results #2: Logistic Regression  
 Accuracy: 0.9875278396436525  
 
-<img width="647" height="581" alt="image" src="https://github.com/user-attachments/assets/ad263b07-304f-4c70-bac3-201ff39ec229" />
+<img width="647" height="581" alt="image" src="https://github.com/user-attachments/assets/ad263b07-304f-4c70-bac3-201ff39ec229" />  
+
+The rest of the results and files I will public in the next few days :)
 
 
 
